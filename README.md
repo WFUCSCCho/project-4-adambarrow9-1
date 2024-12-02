@@ -83,21 +83,24 @@ it to this repository.
 Insertion, search, and deletion running time (already sorted):
 
 ![Firefly picture of a cat 86147](https://github.com/user-attachments/assets/8b2d008e-3011-4979-97b8-fa2e9886a01a)
-
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/8a99e000-3319-4946-a76d-58a0fe713d4d">
 
 Insertion, search, and deletion running time (shuffled):
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/92d6bf69-8fd0-42e0-b4ce-a9b0248f30e9">
 
 Insertion, search, and deletion running time (reversed):
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/96806224-29df-4fd4-8df3-3251866e047b">
+
 
 ## 5. **Document your Dataset and Results**
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
 how it compares to the theoretical performance of the hash table operations.
 
-Dataset Source: // FINISH ME
+Dataset Source: (https://www.kaggle.com/datasets/thedevastator/unlocking-the-secrets-of-nba-player-performance?select=steals.csv)
 
-Dataset Modifications ("None" if unchanged): // FINISH ME
+Dataset Modifications ("None" if unchanged): None!
 
-Result Analysis: // FINISH ME
+Result Analysis: My results were in line with the theoretical performance that hash tables are capable of O(N) performance.
 
 ## Submission:
 
